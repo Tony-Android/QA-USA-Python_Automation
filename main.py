@@ -42,9 +42,10 @@ def test_order_blanket_and_handkerchiefs(self):
     pass
 
 def test_order_2_ice_creams(self):
-    # Add in S8
-    print("function created for set route")
-    pass
+    for i in range(2):
+        # Add in S8
+        print("function created for set route")
+        pass
 
 def test_car_search_model_appears(self):
     # Add in S8
